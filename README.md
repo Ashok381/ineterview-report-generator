@@ -22,7 +22,9 @@
 
 ## 🖼️ Screenshots
 
-> Add screenshots of your application here.
+<img width="1909" height="866" alt="image" src="https://github.com/user-attachments/assets/05e75c00-6673-45e0-8f8b-abcdf08ee7c3" />
+
+<img width="1904" height="858" alt="image" src="https://github.com/user-attachments/assets/901a08b4-57bc-424a-9e62-8aa840b984ee" />
 
 ```
 /screenshots
